@@ -1,0 +1,9 @@
+{
+  "label": "Nivel II: Configuración y Extensibilidad",
+  "position": 2,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Personalización de Claude Code mediante configuración jerárquica, hooks deterministas, integración MCP y sistema de skills."
+  }
+}

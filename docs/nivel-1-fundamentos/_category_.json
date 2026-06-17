@@ -1,0 +1,9 @@
+{
+  "label": "Nivel I: Fundamentos",
+  "position": 1,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Capítulos de base conceptual y operativa. Cubre la arquitectura fundamental de Claude Code, instalación del entorno y primeras sesiones interactivas."
+  }
+}

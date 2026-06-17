@@ -1,0 +1,9 @@
+{
+  "label": "Laboratorios",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Ejercicios prácticos guiados para cada capítulo del curso. Cada laboratorio incluye objetivos, pasos detallados y criterios de evaluación."
+  }
+}

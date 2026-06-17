@@ -1,0 +1,9 @@
+{
+  "label": "Nivel III: Orquestación y Escalado",
+  "position": 3,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Delegación de tareas a subagentes especializados, paralelización de flujos de trabajo y gestión de sesiones distribuidas."
+  }
+}
