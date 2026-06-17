@@ -5,7 +5,7 @@ const config = {
   title: 'Claude Code: De Cero a Experto',
   tagline: 'Curso completo de Claude Code — 40 horas teórico-prácticas',
   favicon: 'img/favicon.ico',
-  url: 'https://curso-claude-code.example.com',
+  url: 'https://claude.antinori.com.ar',
   baseUrl: '/',
   organizationName: 'curso-claude-code',
   projectName: 'curso-claude-code',

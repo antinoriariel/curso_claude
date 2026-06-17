@@ -2,7 +2,7 @@
 slug: /
 sidebar_position: 0
 title: Vision General del Curso
-description: Curso completo «Claude Code: De Cero a Experto» — 40 horas teorico-practicas para dominar la herramienta agente de desarrollo de Anthropic.
+description: "Curso completo «Claude Code: De Cero a Experto» — 40 horas teorico-practicas para dominar la herramienta agente de desarrollo de Anthropic."
 ---
 
 # Claude Code: De Cero a Experto
