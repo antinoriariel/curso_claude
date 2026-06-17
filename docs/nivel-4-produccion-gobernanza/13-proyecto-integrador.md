@@ -941,7 +941,7 @@ El proyecto se evalúa en cuatro dimensiones, cada una con una tabla detallada.
 | **Excelente** | 90-100% | La arquitectura está completa con todos los componentes del curso integrados. El diagrama es claro y muestra el flujo de datos entre todos los subsistemas. Las decisiones están justificadas con ADRs bien redactados. La separación de responsabilidades es correcta. |
 | **Bueno** | 70-89% | La mayoría de los componentes están integrados. El diagrama existe pero podría ser más detallado. Las decisiones principales están documentadas. Hay alguna superposición menor de responsabilidades. |
 | **Suficiente** | 50-69% | Se incluyen los componentes básicos pero faltan algunos (por ejemplo, no hay subagentes o no hay hooks). El diagrama es incompleto. Las decisiones no están documentadas formalmente. |
-| **Insuficiente** | <50% | La arquitectura es incompleta o incoherente. Faltan componentes fundamentales. No hay diagrama o es ilegible. No se justifican las decisiones. |
+| **Insuficiente** | &lt;50% | La arquitectura es incompleta o incoherente. Faltan componentes fundamentales. No hay diagrama o es ilegible. No se justifican las decisiones. |
 
 #### Criterio 2: Implementación técnica (40%)
 
@@ -950,7 +950,7 @@ El proyecto se evalúa en cuatro dimensiones, cada una con una tabla detallada.
 | **Excelente** | 90-100% | Todos los componentes están implementados y funcionan correctamente. CLAUDE.md es completo, las reglas son específicas por ruta, los skills ejecutan flujos completos, los hooks interceptan correctamente, los subagentes están configurados con permisos mínimos y el CI/CD ejecuta el pipeline completo. |
 | **Bueno** | 70-89% | La mayoría de los componentes funcionan. Puede haber un skill o hook con funcionalidad parcial. El CI/CD existe pero no cubre todos los pasos. Los subagentes funcionan pero los permisos podrían ser más restrictivos. |
 | **Suficiente** | 50-69% | Los componentes básicos están implementados (CLAUDE.md, al menos un skill, configuración básica). Faltan hooks o subagentes. El CI/CD es rudimentario o no funciona completamente. |
-| **Insuficiente** | <50% | Solo se implementaron uno o dos componentes. No hay integración entre ellos. Los archivos de configuración tienen errores. El sistema no funciona como un todo. |
+| **Insuficiente** | &lt;50% | Solo se implementaron uno o dos componentes. No hay integración entre ellos. Los archivos de configuración tienen errores. El sistema no funciona como un todo. |
 
 #### Criterio 3: Calidad de código y documentación (20%)
 
@@ -959,7 +959,7 @@ El proyecto se evalúa en cuatro dimensiones, cada una con una tabla detallada.
 | **Excelente** | 90-100% | El código es limpio y sigue todas las convenciones definidas. La documentación es completa con guía de usuario, ADRs, métricas y lecciones aprendidas. Cada componente tiene comentarios explicativos. Los archivos de configuración están bien organizados. |
 | **Bueno** | 70-89% | El código es legible y mayormente consistente. La documentación cubre los aspectos principales. Algunos componentes carecen de comentarios. La organización es correcta con detalles menores. |
 | **Suficiente** | 50-69% | El código funciona pero no sigue consistentemente las convenciones. La documentación es básica, cubre solo la instalación. Faltan ADRs o lecciones aprendidas. |
-| **Insuficiente** | <50% | El código es desordenado o inconsistente. No hay documentación o es mínima. No se pueden entender las decisiones tomadas. |
+| **Insuficiente** | &lt;50% | El código es desordenado o inconsistente. No hay documentación o es mínima. No se pueden entender las decisiones tomadas. |
 
 #### Criterio 4: Presentación y defensa (20%)
 
@@ -968,7 +968,7 @@ El proyecto se evalúa en cuatro dimensiones, cada una con una tabla detallada.
 | **Excelente** | 90-100% | La presentación es clara y bien estructurada. Demuestra el sistema funcionando en vivo. Responde preguntas técnicas con profundidad. Explica las decisiones de diseño y sus alternativas. Identifica limitaciones y propone mejoras futuras. |
 | **Bueno** | 70-89% | La presentación cubre todos los puntos principales. La demostración funciona con detalles menores. Responde la mayoría de las preguntas correctamente. Conoce las limitaciones principales. |
 | **Suficiente** | 50-69% | La presentación es básica pero cubre el sistema. La demostración tiene problemas parciales. Responde preguntas superficialmente. No identifica todas las limitaciones. |
-| **Insuficiente** | <50% | La presentación es desorganizada o incompleta. No hay demostración o no funciona. No puede responder preguntas técnicas sobre su propia implementación. |
+| **Insuficiente** | &lt;50% | La presentación es desorganizada o incompleta. No hay demostración o no funciona. No puede responder preguntas técnicas sobre su propia implementación. |
 
 ---
 

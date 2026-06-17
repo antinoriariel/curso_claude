@@ -191,7 +191,7 @@ La memoria automatica se almacena en:
 ~/.claude/projects/<project-id>/memory/MEMORY.md
 ```
 
-Donde `<project-id>` es un identificador derivado de la ruta del proyecto.
+Donde `project-id` es un identificador derivado de la ruta del proyecto.
 
 ### Estructura de MEMORY.md
 
