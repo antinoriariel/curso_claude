@@ -377,4 +377,4 @@ Una estrategia efectiva es usar **Sonnet como modelo por defecto** y cambiar a O
 
 Los conceptos de este capitulo se practican en el **Laboratorio L1.1: Exploracion del ciclo agente**, donde observaras en tiempo real como Claude Code ejecuta el ciclo de percepcion-razonamiento-accion-observacion en un proyecto real.
 
-Diriegete a la seccion de [Laboratorios](/laboratorios) para acceder al ejercicio.
+Diriegete a la seccion de [Laboratorios](/laboratorios/L1-1-exploracion-ciclo-agente) para acceder al ejercicio.

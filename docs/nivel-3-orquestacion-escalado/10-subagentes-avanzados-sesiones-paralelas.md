@@ -546,4 +546,4 @@ Reserva este patron para cambios criticos: sistemas de seguridad, logica de pago
 
 Los conceptos de este capitulo se practican en el **Laboratorio L10.1: Sesiones paralelas y procesamiento por lotes**, donde lanzaras sesiones background, construiras scripts de fan-out y aplicaras el patron Writer/Reviewer en un proyecto real.
 
-Dirigete a la seccion de [Laboratorios](/laboratorios) para acceder al ejercicio.
+Dirigete a la seccion de [Laboratorios](/laboratorios/L10-1-batch-y-background) para acceder al ejercicio.

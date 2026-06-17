@@ -370,4 +370,4 @@ Usa `claude-sonnet-4-20250514` como modelo por defecto para el equipo. Reserva `
 
 ## Laboratorio asociado
 
-Practica los conceptos de este capitulo en el **[Laboratorio L4.1: Configuracion Jerarquica en Practica](../laboratorios/L4.1-configuracion-jerarquica)**.
+Practica los conceptos de este capitulo en el **[Laboratorio L4.1: Configuracion Jerarquica en Practica](/laboratorios/L4-1-configuracion-settings)**.

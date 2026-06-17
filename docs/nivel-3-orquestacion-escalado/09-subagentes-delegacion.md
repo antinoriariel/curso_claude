@@ -580,4 +580,4 @@ Un subagente con `model: claude-opus-4-8` consumira tokens a la tarifa de Opus a
 
 Los conceptos de este capitulo se practican en el **Laboratorio L9.1: Delegacion con subagentes**, donde crearas subagentes personalizados, definiras un AGENTS.md y experimentaras con subagentes fork en un proyecto real.
 
-Dirigete a la seccion de [Laboratorios](/laboratorios) para acceder al ejercicio.
+Dirigete a la seccion de [Laboratorios](/laboratorios/L9-1-creacion-subagentes) para acceder al ejercicio.

@@ -121,7 +121,7 @@ A lo largo del curso encontraras estos elementos:
 
 ## Comencemos
 
-El primer paso es entender como funciona Claude Code por dentro. Diriegete al [Capitulo 1: Arquitectura de Claude Code](nivel-1-fundamentos/01-arquitectura-claude-code) para comenzar tu camino de cero a experto.
+El primer paso es entender como funciona Claude Code por dentro. Diriegete al [Capitulo 1: Arquitectura de Claude Code](/nivel-1-fundamentos/arquitectura-claude-code) para comenzar tu camino de cero a experto.
 
 ```bash
 # Tu primer comando con Claude Code

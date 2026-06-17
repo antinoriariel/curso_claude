@@ -433,4 +433,4 @@ Un buen `CLAUDE.md` no intenta documentar todo el proyecto. Incluye solo lo que 
 
 ## Laboratorio asociado
 
-Practica los conceptos de este capitulo en el **[Laboratorio L5.1: Memoria e Instrucciones Persistentes](../laboratorios/L5.1-memoria-instrucciones)**.
+Practica los conceptos de este capitulo en el **[Laboratorio L5.1: Memoria e Instrucciones Persistentes](/laboratorios/L5-1-creacion-claude-md)**.

@@ -952,4 +952,4 @@ Coloca hooks de seguridad y formato en `.claude/settings.json` (nivel de proyect
 
 ## Laboratorio
 
-Pon en practica estos conceptos en el **[Laboratorio L6.1: Construyendo un sistema de hooks](/laboratorios/L6-1-sistema-hooks)**, donde implementaras un pipeline completo con validacion de seguridad, auto-formato y notificaciones.
+Pon en practica estos conceptos en el **[Laboratorio L6.1: Construyendo un sistema de hooks](/laboratorios/L6-1-implementacion-hooks)**, donde implementaras un pipeline completo con validacion de seguridad, auto-formato y notificaciones.
