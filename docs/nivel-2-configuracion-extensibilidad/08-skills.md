@@ -205,7 +205,7 @@ Si no hay cambios, ejecuta `git diff HEAD~1` para el ultimo commit.
 
 1. Ejecuta ESLint sobre los archivos modificados:
    ```
-   npx eslint --no-error-on-unmatched-pattern {archivos}
+   npx eslint --no-error-on-unmatched-pattern ARCHIVOS_MODIFICADOS
    ```
 2. Verifica tipos con TypeScript:
    ```
@@ -312,7 +312,7 @@ Para cada error de Sentry:
 ## Fase 3: Creacion de issues
 
 Para cada hallazgo de seguridad, crea un issue en GitHub con:
-- Titulo: `[Security] {descripcion breve}`
+- Titulo: `[Security] descripcion-breve`
 - Labels: `security`, `bug`
 - Body: stack trace, archivo afectado, analisis, solucion sugerida
 
